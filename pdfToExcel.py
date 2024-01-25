@@ -1154,18 +1154,13 @@ def consolidate():
 def test():
     print('test')
 
+def test2():
+    print('hello')
 
-
+def test6():
+    print('hello')
 
 
 #SearchablePDF('Booth-75MMD.pdf')
 
-
-
-
-
-
-
-
-
-
+#Done
